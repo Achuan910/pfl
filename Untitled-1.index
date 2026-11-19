@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>阿川的作品集</title>
+</head>
+<body>
+  <h1>你好！這是阿川的開發作品集</h1>
+  <p>目前正在使用 Cursor 開發商業化餐飲 POS 系統。</p>
+  <a href="https://github.io">點這裡前往 POS 系統展示</a>
+</body>
+</html>
