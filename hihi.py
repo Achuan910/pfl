@@ -1,0 +1,2 @@
+print("HIHI")
+input()
